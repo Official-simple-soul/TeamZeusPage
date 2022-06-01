@@ -25,3 +25,18 @@
 .firstview h2 {
     color: #B91869 !important;;
 }
+
+/*---- contact section ----*/
+
+#contact-section {
+    background: linear-gradient(45deg, #329472 -0.07%, #45CB9C 100.08%);
+}
+
+.progress {
+    background-color: rgba(245, 245, 245, 0.562) !important;
+}
+
+input[type="text"] {
+    background: rgba(245, 245, 245, 0.295);
+    color: #fff;
+}

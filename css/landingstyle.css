@@ -28,6 +28,10 @@
     color: #B91869 !important;;
 }
 
+.text-right {
+    /* float: right; */
+}
+
 
 
 @media  (max-width: 450px) {

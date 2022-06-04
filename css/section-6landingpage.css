@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#creative-section{
+    background: rgba(185, 24, 105, 1);
+    
+}
+.creative-text{
+    text-align: justify;
+    font-family: 'Montserrat', 'sans-sherif'; 
+    font-size: 13px!important;  
+}
+.text-section{
+    padding-top: 150px;
+    
+}
+.vector{
+   
+    width: 3vh;
+    height: 3vh;
+
+}
+.video-section{
+    padding-top: 150px;
+}
+.video-section p{
+
+    font-size: 72px;
+}
+.group-dots{
+padding-left: 200px;
+}
+.more{
+    font-family: 'Montserrat', 'sans-sherif';
+    font-weight: 700;
+}
+.more-info{
+    font-family: 'Montserrat', 'sans-sherif';
+}
+#energy-section{
+    background: linear-gradient(179.91deg, rgba(255, 255, 255, 0) 17.3%, rgba(255, 255, 255, 0.05) 99.92%), #0B131F;
+   
+    
+    
+}
+.energy-text{
+    padding-top: 50px;
+}
+.energy-word, .mkutano-text, .year{
+    font-size: 50px;
+    
+}
+.energy-word{
+    color: rgba(185, 24, 105, 1);
+    
+
+}
+.button-img{
+
+    width: 15px;
+    height: 15px;
+    
+    
+}
+.button-box{
+    position: absolute;
+    top: 300px;
+   left: 320px;
+
+    
+}
+
+.green-button{
+    width: 130px;
+    height: 40px;
+    border-radius: 500px;
+    
+}
+
+.lorem{
+    font-family: 'Montserrat', 'sans-sherif';
+    
+    text-align: justify;
+
+}
+.party-img{
+    width: 100v;
+    height: 100vh;
+
+}
+@media (max-width: 426px){
+    .button-box{
+        position: absolute;
+        top: 300px;
+        left: 190px;
+    }
+
+}
+
+
+#incentive-section {
+    background: #EDEDED;
+    
+    font-family: 'Montserrat', 'sans-sherif';
+}
+
+#incentive-section .left-incentive-section {
+    padding: 30px;
+    background: #EDEDED;
+
+}
+
+#incentive-section .left-incentive-section .bigger .first-part h1 {
+    color: #B91869;
+    font-size: 40px;
+}
+
+.left-incentive-section .lorem-part .thick {
+    font-weight: bold;
+}
+
+.creative-texts {
+    text-align: justify;
+}
+
+.group {
+    padding-top: 33px;
+    padding-left: 250px;
+}
+

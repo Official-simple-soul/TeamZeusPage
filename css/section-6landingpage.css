@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    font-family: 'Montserrat', 'sans-sherif';
 }
 
 #creative-section{
@@ -9,8 +9,7 @@
     
 }
 .creative-text{
-    text-align: justify;
-    font-family: 'Montserrat', 'sans-sherif'; 
+    text-align: justify; 
     font-size: 13px !important;  
 }
 .text-section{
@@ -80,7 +79,6 @@
 
 .lorem{
     font-family: 'Montserrat', 'sans-sherif';
-    
     text-align: justify;
 
 }
@@ -103,7 +101,6 @@
 }
 
 #incentive-section .left-incentive-section .bigger {
-    color: #B91869;
     font-size: 40px;
 }
 
@@ -116,8 +113,7 @@
 }
 
 .group {
-    padding-top: 33px;
-    padding-left: 250px;
+    text-align: end;
 }
 
 

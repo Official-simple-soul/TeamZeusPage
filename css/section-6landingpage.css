@@ -5,13 +5,13 @@
 }
 
 #creative-section{
-    background: rgba(185, 24, 105, 1);
+    background-color: rgba(185, 24, 105, 1) !important;
     
 }
 .creative-text{
     text-align: justify;
     font-family: 'Montserrat', 'sans-sherif'; 
-    font-size: 13px!important;  
+    font-size: 13px !important;  
 }
 .text-section{
     padding-top: 150px;
@@ -31,7 +31,7 @@
     font-size: 72px;
 }
 .group-dots{
-padding-left: 200px;
+    padding-left: 200px;
 }
 .more{
     font-family: 'Montserrat', 'sans-sherif';
@@ -42,9 +42,7 @@ padding-left: 200px;
 }
 #energy-section{
     background: linear-gradient(179.91deg, rgba(255, 255, 255, 0) 17.3%, rgba(255, 255, 255, 0.05) 99.92%), #0B131F;
-   
-    
-    
+
 }
 .energy-text{
     padding-top: 50px;
@@ -91,15 +89,6 @@ padding-left: 200px;
     height: 100vh;
 
 }
-@media (max-width: 426px){
-    .button-box{
-        position: absolute;
-        top: 300px;
-        left: 190px;
-    }
-
-}
-
 
 #incentive-section {
     background: #EDEDED;
@@ -113,7 +102,7 @@ padding-left: 200px;
 
 }
 
-#incentive-section .left-incentive-section .bigger .first-part h1 {
+#incentive-section .left-incentive-section .bigger {
     color: #B91869;
     font-size: 40px;
 }
@@ -131,3 +120,14 @@ padding-left: 200px;
     padding-left: 250px;
 }
 
+
+
+
+@media (max-width: 426px){
+    .button-box{
+        position: absolute;
+        top: 300px;
+        left: 190px;
+    }
+
+}

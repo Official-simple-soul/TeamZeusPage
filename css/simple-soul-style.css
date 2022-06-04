@@ -1,0 +1,104 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    /* font-family: 'MuseoModerno', cursive; */
+    /* font-family: 'Space Mono', monospace; */
+}
+
+/* landing page navbar, hero and about style */
+
+.firstview {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.347), rgba(0, 0, 0, 0.948)), url(/simple-soul-img/topHead.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo-text h4, .logo-text p {
+    font-size: 14px;
+    line-height: 15px;
+}
+
+.section-2-img {
+    width: 55%;
+    margin: auto;
+    text-align: right;
+}
+.firstview h2 {
+    color: #B91869 !important;;
+}
+
+
+/* landing page about section style */
+#about-section {
+    background-image: linear-gradient(to bottom, #030205, rgba(0, 0, 0, 0.942));
+}
+
+.about-text1 {
+    text-align: justify;
+    color: rgba(255, 255, 255, 0.397) !important;
+}
+
+.about-text2{
+    color: rgba(255, 255, 255, 0.781) !important;
+}
+
+.about-dif {
+    background-color: rgba(185, 24, 105, 0.75) !important;
+}
+
+.about-p {
+    text-align: justify;
+    font-size: 16px;
+    line-height: 20px;
+    color: rgba(245, 245, 245, 0.582) !important;
+}
+
+.about-emoji {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* the muktano section */
+
+
+#mkutano-section {
+    background-color: #329472;
+    color: #fff;
+    text-align: justify;
+    width: 100%;
+}
+
+.left-mkutano-section .bigger {
+    margin-left: 70px;
+}
+
+.left-mkutano-section .second-part h3 {
+    font-size: 18px;
+}
+
+
+#mkutano-section {
+    width: 100%;
+}
+
+.left-mkutano-section .color {
+    color: #B91869;
+}
+
+.left-mkutano-section h1 {
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.left-mkutano-section .lorem-part p {
+    font-size: 14px;
+    text-align: justify;
+}
+
+.left-mkutano-section .lorem-part .thick {
+    font-weight: bold;
+}

@@ -10,7 +10,7 @@
 /* landing page navbar, hero and about style */
 
 .firstview {
-    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.347), rgba(0, 0, 0, 0.948)), url(/simple-soul-img/topHead.png);
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.347), rgba(0, 0, 0, 0.948)), url(../simple-soul-img/topHead.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

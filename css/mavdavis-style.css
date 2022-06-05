@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif !important;
+    /* border: 2px solid red; */
+}
+
+.hero-head {
+    background: url(/mavdavis-img/hero-bg.png) no-repeat center;
+    background-size: cover;
+}
+
+.hero-paragraph {
+    color: black;
+}
+
+.left-section {
+    width: 80%;
+    margin: 0 auto;
+}

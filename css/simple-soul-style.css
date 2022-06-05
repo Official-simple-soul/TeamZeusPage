@@ -102,3 +102,14 @@
 .left-mkutano-section .lorem-part .thick {
     font-weight: bold;
 }
+
+@media (max-width: 450px) {
+    .d-flex-mb {
+        flex-direction: column !important;
+    }
+
+    .section-2-img {
+        width: 100%;
+    }
+   
+}

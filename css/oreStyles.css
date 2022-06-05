@@ -130,7 +130,7 @@ event style */
 
 
  @media screen and (max-width:1024px){
-    .d-flex{
+    .dd-flex{
         flex-direction: column!important;
     }
     
@@ -158,7 +158,7 @@ event style */
 
  /* for tab */
  @media screen and (max-width:769px){
-    .d-flex{
+    .dd-flex{
         flex-direction: column!important;
     }
     
@@ -187,7 +187,7 @@ event style */
 }
 
 @media  screen and (max-width: 426px) {
-    .d-flex{
+    .dd-flex{
         flex-direction: column!important;
     }
 
@@ -219,7 +219,7 @@ event style */
 }
 
 @media screen and (max-width:376px){
-    .d-flex{
+    .dd-flex{
         flex-direction: column!important;
     }
 
@@ -250,7 +250,7 @@ event style */
 }
 
     @media (max-width:322px){
-        .d-flex{
+        .dd-flex{
             flex-direction: column!important;
         }
     

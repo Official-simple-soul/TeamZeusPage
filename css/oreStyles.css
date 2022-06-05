@@ -7,7 +7,7 @@
 /* navbar and hero style */
 
 .hero-head {
-    background: url(/mavdavis-img/hero-bg.png) no-repeat center;
+    background: linear-gradient(to bottom, rgba(167, 38, 105, 0.616), rgba(167, 38, 105, 0.741)), url(/mavdavis-img/muktano-main-incentive.png) no-repeat center;
     background-size: cover;
 }
 
@@ -127,54 +127,8 @@ event style */
     margin-right: 30px;
  }
 
-.side-line {
-        position: relative;
-        left: -15px;
-        bottom: 300px;   
- }
- .side-elements1 {
-        position: absolute;
-        right: -30px;
-        bottom: -300px;
-        width: 6% !important;
-        height: 6% !important;
-        margin-right: 30px;
- }
 
- .side-line1 {
-        position: relative;
-        left: -15px;
-        bottom: 200px;   
-}
 
-.line-17 {
-    position: relative;
-    left: 230px;
-    top: -165px;
-}
-     
-.line-line{
-    border-bottom: 1px solid white;
-    position: relative;
-    padding-bottom: 130px;
-} 
-
-.side-element3 {
-    position: absolute;
-    right: -30px;
-    top: 900 px;
-    bottom: -870px;
-    width: 6% !important;
-    height: 6% !important;
-    margin-right: 30px;
-}
-.side-line3 {
-        position: absolute;
-        left: 6px;
-        bottom: 55px;
-        /* width: 6% !important;
-        height: 6% !important; */
- }
  @media screen and (max-width:1024px){
     .d-flex{
         flex-direction: column!important;

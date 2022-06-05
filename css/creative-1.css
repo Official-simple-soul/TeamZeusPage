@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+    overflow-x: hidden;
+    font-family: 'Montserrat', sans-serif;
+    /* font-family: 'MuseoModerno', cursive; */
+    /* font-family: 'Space Mono', monospace; */
+}
+
+
+.joke{
+    background-image: linear-gradient(to bottom, #1d252ff0, #1d252ff0), url(../Landing-page-sec-6/Mkutano_II\ -304\ 1.png);
+    /* color: #1D252F; */
+}
+.hero-sec {
+    background-image: url(../Landing-page-sec-6/Green-bg.png);
+}
+.logo-text h4, .logo-text p {
+    font-size: 14px;
+    line-height: 15px;
+}
+.section-2-img {
+    width: 55%;
+    margin: auto;
+    text-align: right;
+}
+.bck-img {
+    background: url(../Landing-page-sec-6/creative\ img.png);
+}

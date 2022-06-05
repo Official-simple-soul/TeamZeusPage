@@ -3,16 +3,17 @@
     padding: 0;
     box-sizing: border-box;
     color: white;
-    overflow-x: hidden;
+    
     font-family: 'Montserrat', sans-serif;
     /* font-family: 'MuseoModerno', cursive; */
     /* font-family: 'Space Mono', monospace; */
 }
-
-
 .joke{
     background-image: linear-gradient(to bottom, #1d252ff0, #1d252ff0), url(../Landing-page-sec-6/Mkutano_II\ -304\ 1.png);
     /* color: #1D252F; */
+}
+.create {
+    
 }
 .hero-sec {
     background-image: url(../Landing-page-sec-6/Green-bg.png);

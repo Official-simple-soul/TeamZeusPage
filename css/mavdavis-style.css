@@ -6,7 +6,7 @@
 }
 
 .hero-head {
-    background: url(../mavdavis-img/hero-bg.png) no-repeat center;
+    background-image: url(/mavdavis-img/hero-bg.png) no-repeat center;
     background-size: cover;
 }
 

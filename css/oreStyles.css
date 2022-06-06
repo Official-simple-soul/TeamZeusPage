@@ -7,7 +7,7 @@
 /* navbar and hero style */
 
 .hero-sec {
-    background-image: linear-gradient(to bottom, rgba(167, 38, 105, 0.616), rgba(167, 38, 105, 0.741)), url(/mavdavis-img/hero-bg.png);
+    background-image: linear-gradient(to bottom, rgba(167, 38, 105, 0.616), rgba(167, 38, 105, 0.741)), url(../mavdavis-img/hero-bg.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

@@ -5,6 +5,7 @@
     font-family: 'Montserrat', sans-serif;
     /* font-family: 'MuseoModerno', cursive; */
     /* font-family: 'Space Mono', monospace; */
+    border: 1px solid red;
 }
 
 /* landing page navbar, hero and about style */
@@ -69,20 +70,17 @@
     background-color: #329472;
     color: #fff;
     text-align: justify;
-    width: 100%;
 }
 
 .left-mkutano-section .bigger {
     margin-left: 70px;
 }
 
+.no-pad {
+    padding-right: 0 !important;
+}
 .left-mkutano-section .second-part h3 {
     font-size: 18px;
-}
-
-
-#mkutano-section {
-    width: 100%;
 }
 
 .left-mkutano-section .color {

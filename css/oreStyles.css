@@ -217,6 +217,10 @@ event style */
     #stat-section > div > div.row > div > div.container > div > img {
         display: none;
     }
+
+    .energymuk {
+            display: block !important;
+        }
      
 
 }

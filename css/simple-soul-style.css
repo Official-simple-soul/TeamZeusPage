@@ -67,9 +67,13 @@
 
 
 #mkutano-section {
-    background-color: #329472;
+    background-color: #329472 !important;
     color: #fff;
     text-align: justify;
+}
+
+#mkutano-section .row {
+    background-color: #329472 !important;
 }
 
 .left-mkutano-section .bigger {

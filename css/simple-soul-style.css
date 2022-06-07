@@ -31,7 +31,7 @@
     color: #B91869 !important;;
 }
 .info a {
-    text-decoration: none;
+    text-decoration: none !important;
 }
 
 /* landing page about section style */

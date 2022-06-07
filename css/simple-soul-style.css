@@ -30,7 +30,9 @@
 .firstview h2 {
     color: #B91869 !important;;
 }
-
+.info a {
+    text-decoration: none;
+}
 
 /* landing page about section style */
 #about-section {

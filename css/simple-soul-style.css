@@ -113,5 +113,9 @@
     .section-2-img {
         width: 100%;
     }
+
+    .web {
+        display: none;
+    }
    
 }
